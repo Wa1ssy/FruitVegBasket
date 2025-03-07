@@ -28,6 +28,12 @@ build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.AppShell.xa
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
+[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Controls/Spacer.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Controls.Spacer.xaml
+build_metadata.AdditionalFiles.TargetPath = Controls\Spacer.xaml
+build_metadata.AdditionalFiles.RelativePath = Controls\Spacer.xaml
+
 [C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.MainPage.xaml
