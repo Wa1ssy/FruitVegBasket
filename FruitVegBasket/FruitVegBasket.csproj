@@ -80,8 +80,13 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 		<PackageReference Include="Microsoft.UI.Xaml" Version="2.8.2" />
 	</ItemGroup>
-
+  <!--<MauiXaml Update="Controls\Spacer.xaml">
+    <Generator>MSBuild:Compile</Generator>
+  </MauiXaml>-->
 	<ItemGroup>
+	  <MauiXaml Update="Controls\Spacer.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
 	  <MauiXaml Update="Pages\BasketPage.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
