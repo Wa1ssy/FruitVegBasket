@@ -2032,6 +2032,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-android33.0/android-arm": {
@@ -4050,6 +4060,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -6070,6 +6090,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-android33.0/android-x64": {
@@ -8088,6 +8118,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -10108,6 +10148,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-android33.0/iossimulator-x64": {
@@ -12127,6 +12177,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-android33.0/maccatalyst-x64": {
@@ -14145,6 +14205,16 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -16168,6 +16238,16 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-ios16.1": {
@@ -16460,6 +16540,16 @@
             "rid": "win-x86"
           }
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/android-arm": {
@@ -16737,6 +16827,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -17016,6 +17116,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/android-x64": {
@@ -17293,6 +17403,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -17572,6 +17692,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/iossimulator-x64": {
@@ -17850,6 +17980,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
@@ -18127,6 +18267,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -18408,6 +18558,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -18701,6 +18861,16 @@
             "rid": "win-x86"
           }
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/android-arm": {
@@ -18978,6 +19148,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -19257,6 +19437,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/android-x64": {
@@ -19534,6 +19724,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -19813,6 +20013,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/iossimulator-x64": {
@@ -20091,6 +20301,16 @@
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
@@ -20368,6 +20588,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -20649,6 +20879,16 @@
         },
         "build": {
           "build/Microsoft.Web.WebView2.targets": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -21094,6 +21334,16 @@
             "rid": "win"
           }
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
@@ -21489,6 +21739,16 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -21886,6 +22146,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
@@ -22281,6 +22551,16 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -22678,6 +22958,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
@@ -23074,6 +23364,16 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
@@ -23469,6 +23769,16 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     },
@@ -23874,6 +24184,16 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "FruitVegBasket.Shared/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FruitVegBasket.Shared.dll": {}
         }
       }
     }
@@ -27393,12 +27713,18 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "FruitVegBasket.Shared/1.0.0": {
+      "type": "project",
+      "path": "../FruitVegBasket.Shared/FruitVegBasket.Shared.csproj",
+      "msbuildProject": "../FruitVegBasket.Shared/FruitVegBasket.Shared.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "FruitVegBasket.Shared >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -27422,6 +27748,7 @@
     "net7.0-ios16.1": [
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "FruitVegBasket.Shared >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -27434,6 +27761,7 @@
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "FruitVegBasket.Shared >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -27446,6 +27774,7 @@
     "net7.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 5.2.0",
       "CommunityToolkit.Mvvm >= 8.2.0",
+      "FruitVegBasket.Shared >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -27463,11 +27792,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
+      "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
       "projectName": "FruitVegBasket",
-      "projectPath": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
+      "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
       "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\obj\\",
+      "outputPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -27492,19 +27821,35 @@
       "frameworks": {
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj"
+            }
+          }
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj"
+            }
+          }
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj"
+            }
+          }
         },
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj": {
+              "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket.Shared\\FruitVegBasket.Shared.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

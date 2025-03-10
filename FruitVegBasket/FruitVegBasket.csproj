@@ -80,6 +80,10 @@
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 		<PackageReference Include="Microsoft.UI.Xaml" Version="2.8.2" />
 	</ItemGroup>
+
+	<ItemGroup>
+	  <ProjectReference Include="..\FruitVegBasket.Shared\FruitVegBasket.Shared.csproj" />
+	</ItemGroup>
   <!--<MauiXaml Update="Controls\Spacer.xaml">
     <Generator>MSBuild:Compile</Generator>
   </MauiXaml>-->
