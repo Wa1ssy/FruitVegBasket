@@ -165,6 +165,10 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -190,10 +194,6 @@
               "target": "Package",
               "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
-            },
-            "Microsoft.UI.Xaml": {
-              "target": "Package",
-              "version": "[2.8.2, )"
             },
             "Xamarin.Android.Glide": {
               "target": "Package",
@@ -348,6 +348,10 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -373,10 +377,6 @@
               "target": "Package",
               "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
-            },
-            "Microsoft.UI.Xaml": {
-              "target": "Package",
-              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -464,6 +464,10 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -489,10 +493,6 @@
               "target": "Package",
               "version": "[7.0.100-1.23401.1, )",
               "autoReferenced": true
-            },
-            "Microsoft.UI.Xaml": {
-              "target": "Package",
-              "version": "[2.8.2, )"
             }
           },
           "imports": [
@@ -581,6 +581,10 @@
               "version": "[7.0.0, )",
               "autoReferenced": true
             },
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Extensions.Logging": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -599,10 +603,6 @@
               "target": "Package",
               "version": "[7.0.101, )",
               "autoReferenced": true
-            },
-            "Microsoft.UI.Xaml": {
-              "target": "Package",
-              "version": "[2.8.2, )"
             },
             "Microsoft.WindowsAppSDK": {
               "target": "Package",
