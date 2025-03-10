@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj": {}
+    "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj": {}
   },
   "projects": {
-    "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj": {
+    "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
+        "projectUniqueName": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
         "projectName": "FruitVegBasket",
-        "projectPath": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
+        "projectPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\FruitVegBasket.csproj",
         "packagesPath": "C:\\Users\\opilane\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\opilane\\source\\repos\\FruitVegBasket\\FruitVegBasket\\obj\\",
+        "outputPath": "C:\\Users\\opilane\\Source\\Repos\\FruitVegBasket\\FruitVegBasket\\obj\\",
         "projectStyle": "PackageReference",
         "crossTargeting": true,
         "fallbackFolders": [

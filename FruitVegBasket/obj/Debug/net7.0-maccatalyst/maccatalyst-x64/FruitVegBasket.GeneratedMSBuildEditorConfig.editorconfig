@@ -12,77 +12,77 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FruitVegBasket
-build_property.ProjectDir = C:\Users\opilane\source\repos\FruitVegBasket\FruitVegBasket\
+build_property.ProjectDir = C:\Users\opilane\Source\Repos\FruitVegBasket\FruitVegBasket\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/App.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/AppShell.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Controls/Spacer.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Controls/Spacer.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Controls.Spacer.xaml
 build_metadata.AdditionalFiles.TargetPath = Controls\Spacer.xaml
 build_metadata.AdditionalFiles.RelativePath = Controls\Spacer.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/MainPage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/BasketPage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/BasketPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.BasketPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\BasketPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\BasketPage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/CategoriesPage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/CategoriesPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.CategoriesPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\CategoriesPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\CategoriesPage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/HelpPage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/HelpPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.HelpPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HelpPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HelpPage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/HomePage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/HomePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.HomePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/OrdersPage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/OrdersPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.OrdersPage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\OrdersPage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\OrdersPage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Pages/ProfilePage.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Pages/ProfilePage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Pages.ProfilePage.xaml
 build_metadata.AdditionalFiles.TargetPath = Pages\ProfilePage.xaml
 build_metadata.AdditionalFiles.RelativePath = Pages\ProfilePage.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Resources/Styles/Colors.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/opilane/source/repos/FruitVegBasket/FruitVegBasket/Resources/Styles/Styles.xaml]
+[C:/Users/opilane/Source/Repos/FruitVegBasket/FruitVegBasket/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = FruitVegBasket.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
