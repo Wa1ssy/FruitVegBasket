@@ -2007,6 +2007,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -4021,6 +4024,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -6035,6 +6041,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -8049,6 +8058,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -10063,6 +10075,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -12077,6 +12092,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -14091,6 +14109,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -16105,6 +16126,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -16378,6 +16402,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -16651,6 +16678,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -16924,6 +16954,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -17197,6 +17230,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -17470,6 +17506,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -17743,6 +17782,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -18016,6 +18058,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -18289,6 +18334,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -18562,6 +18610,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -18835,6 +18886,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -19108,6 +19162,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -19381,6 +19438,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -19654,6 +19714,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -19927,6 +19990,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -20200,6 +20266,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -20473,6 +20542,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -20898,6 +20970,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -21289,6 +21364,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -21680,6 +21758,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -22071,6 +22152,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -22462,6 +22546,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -22853,6 +22940,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -23244,6 +23334,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
@@ -23641,6 +23734,9 @@
       "FruitVegBasket.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "CommunityToolkit.Mvvm": "8.2.0"
+        },
         "compile": {
           "bin/placeholder/FruitVegBasket.Shared.dll": {}
         },
