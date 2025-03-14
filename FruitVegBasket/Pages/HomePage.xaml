@@ -47,9 +47,9 @@
                 <Setter Property="Margin" Value="0, 1"/>
             </Style>
         </ResourceDictionary>
-            
+
     </ContentPage.Resources>
-    
+
     <VerticalStackLayout Padding="10, 15">
         <Label>
             <Label.FormattedText>
@@ -58,7 +58,7 @@
                           TextColor="{StaticResource Primary}"                          
                           FontSize="14"
                           FontAttributes="Bold"/>
-                    <Span Text="Abhay"
+                    <Span Text="Artur"
                           TextColor="{StaticResource Mid}"
                           FontSize="18"
                           FontAttributes="Bold"
@@ -133,13 +133,18 @@
                     <Border StrokeShape="RoundRectangle 5"
                             StrokeThickness="0">
                         <Grid>
-                            <Image Source="{Binding Image}"
+                            <Image 
                                    Aspect="AspectFill"
                                    VerticalOptions="Center"
                                    HorizontalOptions="Center"
                                    HeightRequest="175"
                                    WidthRequest="150"
-                                   Opacity="0.9"/>
+                                   Opacity="0.9">
+                                <Image.Source>
+                                    <UriImageSource Uri="{Binding Image}"
+                                                    CachingEnabled="True"/>
+                                </Image.Source>
+                            </Image>
                             <Border StrokeShape="RoundRectangle 8"
                                     StrokeThickness="0"
                                     BackgroundColor="White"
@@ -159,7 +164,7 @@
         </CollectionView>
 
         <controls:Spacer Space="15"/>
-            
+
         <Label Text="Popular"
                 Style="{StaticResource H2}"/>
 

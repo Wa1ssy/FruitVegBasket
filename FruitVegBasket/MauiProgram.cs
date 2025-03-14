@@ -1,9 +1,7 @@
-﻿using CommunityToolkit.Maui;
-using FruitVegBasket.Interfaces;
+﻿using FruitVegBasket.Interfaces;
 using FruitVegBasket.Pages;
 using FruitVegBasket.Services;
 using FruitVegBasket.ViewModels;
-using Microsoft.Extensions.Logging;
 
 namespace FruitVegBasket;
 
