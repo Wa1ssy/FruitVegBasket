@@ -7,8 +7,8 @@ public partial class HomePage : ContentPage
     private readonly HomePageViewModel _viewModel;
 
     public HomePage(HomePageViewModel viewModel)
-    {
-        InitializeComponent();
+	{
+		InitializeComponent();
         _viewModel = viewModel;
         BindingContext = _viewModel;
     }
@@ -21,7 +21,7 @@ public partial class HomePage : ContentPage
 
     private void ProductsListControl_AddRemoveCartClicked(object sender, Controls.ProductCartItemChangeEventArgs e)
     {
-        if (e.Count > 0)
+        if(e.Count > 0)
         {
             _viewModel.AddToCartCommand.Execute(e.ProductId);
         }
